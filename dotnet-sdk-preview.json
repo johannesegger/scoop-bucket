@@ -13,7 +13,7 @@
             "hash": "sha512:39497EC67ED886738716F2513A0E26AA14E9B4FFF2D66112FB2E76BF980526A9C12BE417415DF1A231ECD29498DC8CB9B3D21A8AAE82E2E776445403CAC7AB5B"
         }
     },
-    "bin": [ [ "dotnet.exe", "dotnet-prev" ] ],
+    "bin": "dotnet.exe",
     "env_set": {
         "DOTNET_ROOT": "$dir"
     }
