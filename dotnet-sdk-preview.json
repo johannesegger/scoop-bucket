@@ -1,16 +1,16 @@
 {
-    "version": "3.0.100-preview9-014004",
+    "version": "3.0.100-rc1-014190",
     "homepage": "https://www.microsoft.com/net/",
     "description": ".NET is a free, cross-platform, open source developer platform for building many different types of applications.",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://download.visualstudio.microsoft.com/download/pr/cf308e61-4616-4589-ba17-dc734a36396e/0192d412fd0d8ad2400f8186f7e99f8f/dotnet-sdk-3.0.100-preview9-014004-win-x64.zip",
-            "hash": "sha512:E3FE0B390034640294418E46EABD27010607EE14EB00C33D5EAC111382F856646563DB162CB20005AA170F447566CBFE9948B5F04D74ED24C2115B8670E0A686"
+            "url": "https://download.visualstudio.microsoft.com/download/pr/10927870-88e5-4b7d-9a5b-1a7cb46a98c0/c17f892b315e5f44052c30cd2eb21023/dotnet-sdk-3.0.100-rc1-014190-win-x64.zip",
+            "hash": "sha512:EBEA78935351142774F5A43F5B8604460C4A5ACA5AE2073D4392C909992AB3AE09239F2E08080503CB6979CFBD12C42429FECBFD1F7D7F00AAFC6E5849FBDD1A"
         },
         "32bit": {
-            "url": "https://download.visualstudio.microsoft.com/download/pr/1e5f4ef6-4d1e-4e33-aba9-3d50a568959c/7644caad1a404d87d92717abf7ab7a58/dotnet-sdk-3.0.100-preview9-014004-win-x86.zip",
-            "hash": "sha512:39497EC67ED886738716F2513A0E26AA14E9B4FFF2D66112FB2E76BF980526A9C12BE417415DF1A231ECD29498DC8CB9B3D21A8AAE82E2E776445403CAC7AB5B"
+            "url": "https://download.visualstudio.microsoft.com/download/pr/5b08880a-938d-47a9-88c2-5a4a54e7c405/8180a0c22018c01be4dadf72e5cfb269/dotnet-sdk-3.0.100-rc1-014190-win-x86.zip",
+            "hash": "sha512:9630299B9D6B5DB8AAD567726D3CFFBBDDD81202C79EDAE3001AE9F24D6BB1F1ED9CBB5EE54E6380B4ADBA0D20DE8AF8D4856A5C45C4B74CFB3A2DBEF431D698"
         }
     },
     "bin": "dotnet.exe",
