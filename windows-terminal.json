@@ -1,11 +1,11 @@
 {
     "$schema": "https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
-    "version": "0.5.2681.0",
+    "version": "0.6.2951.0",
     "checkver": {
         "url": "https://api.github.com/repos/microsoft/terminal/releases",
         "jsonpath": "$[0].tag_name"
     },
-    "url": "https://github.com/microsoft/terminal/releases/download/v0.5.2681.0/Microsoft.WindowsTerminal_0.5.2681.0_8wekyb3d8bbwe.msixbundle#/dl.msixbundle",
+    "url": "https://github.com/microsoft/terminal/releases/download/v0.6.2951.0/Microsoft.WindowsTerminal_0.6.2951.0_8wekyb3d8bbwe.msixbundle#/dl.msixbundle",
     "autoupdate": {
         "url": "https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_8wekyb3d8bbwe.msixbundle"
     },
